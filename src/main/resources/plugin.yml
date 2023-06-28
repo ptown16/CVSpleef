@@ -1,0 +1,9 @@
+name: CVSpleef
+version: 1.18
+main: org.cubeville.cvspleef.CVSpleef
+api-version: 1.18
+prefix: CVSpleef
+depend: [ CVGames ]
+authors: [ Ptown16, FrediW ]
+description: Spleef for Cubeville!
+website: cubeville.org
